@@ -1,0 +1,5 @@
+--
+BasedOnStyle: Google
+
+# 1行の文字数を制限する (0で無制限)
+CommentPragmas:^
